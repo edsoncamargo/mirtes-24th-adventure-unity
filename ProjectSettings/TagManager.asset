@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemies
+  - Wall
+  - Water
+  - Void
+  - Syringe
+  - Germ
+  - HealthBar
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Player
+  - Dialogue
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 265228893
+    locked: 0
+  - name: VisualBackground
+    uniqueID: 3456254129
+    locked: 0
+  - name: Chars
+    uniqueID: 3286345043
+    locked: 0
+  - name: Ground
+    uniqueID: 3754333363
+    locked: 0
+  - name: Wall
+    uniqueID: 2232037583
+    locked: 0
+  - name: Water
+    uniqueID: 3754733473
+    locked: 0
+  - name: VisualForeground
+    uniqueID: 3326856811
+    locked: 0
