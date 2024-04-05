@@ -13,17 +13,17 @@ The following are the key technologies and tools used in the development of this
 
 ## Key Features
 
-**Short and Sweet**: Enjoy a brief but enjoyable gameplay experience, consisting of a short battle phase followed by a celebration phase.
-**Straightforward Controls**: Use the A and D keys to move left and right. Press the spacebar to jump, and left-click the mouse to shoot the syringe.
-**Combat Phase**: Engage in a short battle against some virus and a boss zombie doctor using a syringe as your weapon.
-**Celebration Phase**: After the battle, navigate through a simple celebratory scene where you can move back and forth. Take in the festive atmosphere as you celebrate Mirtes' birthday with your family.
-**User-Friendly Interface**: Easily pause the game at any time using the Esc key. Access a simple command guide to familiarize yourself with the controls.
+- **Short and Sweet**: Enjoy a brief but enjoyable gameplay experience, consisting of a short battle phase followed by a celebration phase.
+- **Straightforward Controls**: Use the A and D keys to move left and right. Press the spacebar to jump, and left-click the mouse to shoot the syringe.
+- **Combat Phase**: Engage in a short battle against some virus and a boss zombie doctor using a syringe as your weapon.
+- **Celebration Phase**: After the battle, navigate through a simple celebratory scene where you can move back and forth. Take in the festive atmosphere as you celebrate Mirtes' birthday with your family.
+- **User-Friendly Interface**: Easily pause the game at any time using the Esc key. Access a simple command guide to familiarize yourself with the controls.
 
 ## How to Play
 
-**Battle Phase**: Use the A and D keys to move left and right. Press the spacebar to jump, and left-click the mouse to shoot the syringe at the some virus and a boss zombie doctor.
-**Celebration Phase**: Simply move left and right using the A and D keys to explore the celebration scene.
-**Pause and Commands**: Press the Esc key to pause the game at any time. Access the command guide for a quick overview of the controls.
+- **Battle Phase**: Use the A and D keys to move left and right. Press the spacebar to jump, and left-click the mouse to shoot the syringe at the some virus and a boss zombie doctor.
+- **Celebration Phase**: Simply move left and right using the A and D keys to explore the celebration scene.
+- **Pause and Commands**: Press the Esc key to pause the game at any time. Access the command guide for a quick overview of the controls.
 
 ## Screenshots
 
