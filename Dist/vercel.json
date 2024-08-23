@@ -1,9 +1,0 @@
-{
-  "public": "./Dist/Build",
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/Dist/index.html"
-    }
-  ]
-}
