@@ -1,0 +1,10 @@
+{
+  "public": "./Dist/Build",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/Dist/index.html"
+    }
+  ],
+  "ignore": ["**/*.tmp", "**/*.log", "node_modules"]
+}
